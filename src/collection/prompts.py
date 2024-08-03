@@ -1,0 +1,12 @@
+# PROMPT1 = "Describe the style of this house in 20 words or less. Be as descriptive as possible within word limits."
+# PROMPT2 = "Describe the architecture of this house in 20 words or less. Be as descriptive as possible within word limits."
+# PROMPT3 = "Describe the house exterior from an architectural perspective, focusing on unique design elements. Keep it under 20 words."
+# PROMPT4 = "Write a poetic description of the house exterior, highlighting its beauty and charm. Limit to 20 words."
+# PROMPT5 = "Describe the house exterior as if you were a real estate agent trying to sell it. Max 20 words."
+# PROMPT6 = "Give a casual, conversational description of the house exterior as if talking to a friend. Keep it under 20 words."
+# PROMPT7 = "Describe the house exterior from the perspective of someone seeing it for the first time. Max 20 words."
+NUM_WORDS = 30
+PROMPT1 = f"Create a comprehensive description of the home, mentioning its architectural style, structural layout, outdoor features, and any special characteristics that make it unique. Limit to {NUM_WORDS} words."
+PROMPT2 = f"Describe the architectural style of the house. Limit to {NUM_WORDS} words."
+PROMPT3 = f"Provide an overview of the house's structure and layout, including the number of stories and any unique architectural elements like balconies, terraces, or verandas. Limit to {NUM_WORDS} words."
+PROMPT4 = f"Focus on the exterior materials, including the colors, textures, and patterns used on the facade. Include details about any decorative elements or lighting fixtures. Limit to {NUM_WORDS} words."

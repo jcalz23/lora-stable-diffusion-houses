@@ -1,0 +1,12 @@
+ipykernel
+requests
+tqdm
+matplotlib
+pillow
+openai
+diffusers #git+https://github.com/huggingface/diffusers.git
+transformers
+accelerate
+datasets
+torchvision
+huggingface_hub
