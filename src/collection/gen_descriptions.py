@@ -8,7 +8,7 @@ from utils.images import view_image
 
 # Constants
 DATA_DIR = '../../data'
-IMG_DIR = '../../data/imgs'
+IMG_DIR = '../../data/imgs_all'
 TEXT_DIR = '../../data/text'
 FRONTAL = 'frontal'
 
@@ -41,4 +41,4 @@ def generate_descriptions(num_images=None, view_images=False):
             view_image(image_path, figsize=(6, 4))
 
 if __name__ == "__main__":
-    generate_descriptions(view_images=True)
+    generate_descriptions()
